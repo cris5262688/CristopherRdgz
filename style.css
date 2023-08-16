@@ -1,0 +1,110 @@
+body {
+  
+background-image: url(https://31.media.tumblr.com/4c7f690368c6eccfdda380e68040e94f/tumblr_mrofx3zorH1sfhgmho1_250.gif);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+
+
+}
+
+h1{
+  
+  color: wheat;
+  text-align: center;
+  background-color: darkslategray;
+  border-radius: 20px;
+
+  }
+  
+  #im{
+    width: 200px;
+    display: block;
+    margin: auto;
+    border: solid 2px cyan;
+    border-radius: 40% 0% 40% 0;
+    
+    
+    }
+     
+     p{
+       color: yellow;
+       text-align: center;
+       font-size: 15px;
+       font-weight: bold;
+       
+     }
+     .f{
+       color: red;
+     }
+     
+     #B{
+       text-align: left;
+       color: yellow;
+     }
+     
+     #face{
+       margin-left: 10px;
+       width: 20%;
+     }
+     
+     #insta{
+       margin-left: 10px;
+       width: 20%;
+     }
+     
+     h2{
+       color: yellow;
+       background-color: coral;
+       border: solid black 3px;
+       border-radius: 20px;
+       
+     }
+     .du{
+       color: orange;
+     }
+     p{
+       color: yellow;
+       text-align: right;
+       
+     }
+     
+     .di{
+       width: 60%;
+     }
+     
+h3{
+  color: skyblue;
+  font-size: 30px;
+  
+}
+.di{
+  border-radius: 50px;
+  border: solid papayawhip 2px;
+}
+.spot{
+  width: 90px;
+  height: 90px;
+  border-radius: 40px;
+  border: solid white 1px;
+}
+
+.faces{
+  width: 90px;
+  height: 90px;
+  border-radius: 40px;
+  border: solid white 10x;
+}
+
+.yt{
+ width: 90px;
+   height: 90px;
+   border-radius: 40px;
+   border: solid white 10x;
+}
+video{
+  width: 400px;
+  height: 200px;
+  border: solid  dimgray 4px;
+}
